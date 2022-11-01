@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, welcome 👋
 
 <div align="center">
   <a href="https://github.com/LeoSlepack">
