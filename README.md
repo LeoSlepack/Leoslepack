@@ -1,5 +1,8 @@
 ### Hi, welcome 👋
 
+Meu nome é  Leonardo, tenho 24 anos, sou muito sociável e gosto de trabalhar em equipe, tenho muita vontade e facilidade de aprender, estou buscando um estágio na área de tecnologia, pois é algo que sempre sonhei e hoje posso estar correndo atrás disso, atualmente estou cursando Análise e Desenvolvimento de Sistemas na faculdade Senac - PR.
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
