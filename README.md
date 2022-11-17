@@ -1,4 +1,4 @@
-### Hi, welcome 👋
+### Olá, seja bem vindo! 👋
 
 Meu nome é  Leonardo, tenho 24 anos, sou muito sociável e gosto de trabalhar em equipe, tenho muita vontade e facilidade de aprender, estou buscando um estágio na área de tecnologia, pois é algo que sempre sonhei e hoje posso estar correndo atrás disso, atualmente estou cursando Análise e Desenvolvimento de Sistemas na faculdade Senac - PR.
 
