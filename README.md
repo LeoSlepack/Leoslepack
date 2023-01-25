@@ -1,6 +1,6 @@
 ### Olá, seja bem vindo! 👋
 
-Meu nome é  Leonardo, tenho 24 anos, sou muito sociável e gosto de trabalhar em equipe, tenho muita vontade e facilidade de aprender, estou buscando um estágio na área de tecnologia, pois é algo que sempre sonhei e hoje posso estar correndo atrás disso, atualmente estou cursando Análise e Desenvolvimento de Sistemas na faculdade Senac - PR.
+Meu nome é Leonardo, tenho 24 anos, sou amante e entusiasta da tecnologia, gosto de estar sempre estudando e aprendendo coisas novas, antes de começar a estudar e trabalhar com tecnologia eu trabalhei alguns anos como montador em empresas multinacionais, mas eu não me sentia encaixado parecia que sempre faltava algo, então decidi mudar de carreira e logo após essa decisão atuei no mercado como desenvolvedor Front-End em uma startup de LGPD e venho aperfeiçoando meus conhecimentos em Back-End e banco de dados.
 <!--
 - Abaixo estão as linguagens que tenho trabalhado no momento, mas sempre estou em busca de mais conhecimento, estudando e aprimorando para continuar evoluindo. 
 - Muito obrigado pela visita !!
